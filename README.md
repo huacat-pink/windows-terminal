@@ -2,7 +2,8 @@
 <img src="logo.png" width=100px></img><br/>
 Huacat Pink Theme for Windows Terminal
 </h3>
-<p style="text-align:center; font-style:italic;"> a cool pink theme your terminal</p>
+
+<p align="center"> a cool pink theme for your terminal</p>
 
 ## Installation
 ### Automatic Installation (Recommended)
