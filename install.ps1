@@ -1,0 +1,2 @@
+Invoke-Webrequest -uri 'https://raw.githubusercontent.com/huacat-pink/windows-terminal/main/schemes.jsonc' -OutFile ( New-Item -Path "$($env:LOCALAPPDATA)\Microsoft\Windows Terminal\Fragments\Huacat Pink Theme\schemes.json" -Force )
+Invoke-Webrequest -uri 'https://raw.githubusercontent.com/huacat-pink/windows-terminal/main/themes.jsonc' -OutFile ( New-Item -Path "$($env:LOCALAPPDATA)\Microsoft\Windows Terminal\Fragments\Huacat Pink Theme\themes.json" -Force )
