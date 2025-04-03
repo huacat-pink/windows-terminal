@@ -1,0 +1,1 @@
+# Huacat Pink Theme for Windows Terminal

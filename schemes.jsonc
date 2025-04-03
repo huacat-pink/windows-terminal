@@ -1,0 +1,50 @@
+{
+    "schemes": [
+        {
+            "name": "Huacat Pink Theme",
+            "background": "#f5eaf5",
+            "foreground": "#72696f",
+            "cursorColor": "#54494b",
+            "selectionBackground": "#f0d3e9",
+            "black": "#38313b",
+            "blue": "#5782df",
+            "green": "#3d8b1c",
+            "cyan": "#3ca89a",
+            "red": "#d14040",
+            "purple": "#9045d6",
+            "yellow": "#c4990d",
+            "white": "#978c94",
+            "brightBlack": "#6b5d72",
+            "brightBlue": "#88a4e2",
+            "brightGreen": "#62ad44",
+            "brightCyan": "#6ac0b9",
+            "brightRed": "#db6363",
+            "brightPurple": "#a770db",
+            "brightYellow": "#e2b213",
+            "brightWhite": "#ecc3e1"
+        },
+        {
+            "name": "Huacat Pink dark",
+            "background": "#3d173d",
+            "foreground": "#d1b9c8",
+            "cursorColor": "#bfa6b9",
+            "selectionBackground": "#6d3464",
+            "black": "#3d173d",
+            "blue": "#5782df",
+            "green": "#72c45b",
+            "cyan": "#3ca89a",
+            "red": "#d14040",
+            "purple": "#9045d6",
+            "yellow": "#c4990d",
+            "white": "#d1b9c8",
+            "brightBlack": "#978c94",
+            "brightBlue": "#7e97f9",
+            "brightGreen": "#80bf6e",
+            "brightCyan": "#7abecc",
+            "brightRed": "#ee7a7a",
+            "brightPurple": "#bb80f1",
+            "brightYellow": "#d7b853",
+            "brightWhite": "#dec7d5"
+        }
+    ]
+}
