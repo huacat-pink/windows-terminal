@@ -28,7 +28,7 @@ Invoke-Webrequest -uri 'https://raw.githubusercontent.com/huacat-pink/windows-te
 4. Copy the config inside the `schemes: []` array in file [schemes.jsonc](schemes.jsonc) to the `schemes` list in `settings.json`
 ```jsonc
 {
-    "profiles"
+    "profiles":[...],
     //...
     "schemes": [
         ..Other schemes
