@@ -31,16 +31,17 @@ Invoke-Webrequest -uri 'https://raw.githubusercontent.com/huacat-pink/windows-te
     "profiles":[...],
     //...
     "schemes": [
-        ..Other schemes
+        .. Paste your scheme there
         {
             "name": "Huacat Pink Theme",
             "background": "#f5eaf5",
-            ..
+            "foreground": "#72696f",
+            ...
         },
         {
             "name": "Huacat Pink dark",
             "background": "#3d173d",
-            ..
+            ...
         }
     ]
 }
@@ -50,6 +51,7 @@ Invoke-Webrequest -uri 'https://raw.githubusercontent.com/huacat-pink/windows-te
 {
     ...
     "themes": [
+        .. Paste your theme there
         {
             "name": "Huacat Pink Theme",
             "tab": {...},
