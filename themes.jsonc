@@ -1,29 +1,6 @@
 {
     "themes": [
         {
-            "name": "Huacat Pink Dark",
-            "tab": 
-            {
-                "background": "#6a3161FF",
-                "iconStyle": "default",
-                "showCloseButton": "always",
-                "unfocusedBackground": "#3d173dFF"
-            },
-            "tabRow": 
-            {
-                "background": "#3d173dFF",
-                "unfocusedBackground": "#471d47FF"
-            },
-            "window": 
-            {
-                "applicationTheme": "dark",
-                "experimental.rainbowFrame": false,
-                "frame": "#7a457aFF",
-                "unfocusedFrame": "#633863FF",
-                "useMica": false
-            }
-        },
-        {
             "name": "Huacat Pink Theme",
             "tab": 
             {
@@ -43,6 +20,29 @@
                 "experimental.rainbowFrame": false,
                 "frame": "#b4b4b4FF",
                 "unfocusedFrame": "#d4d4d4FF",
+                "useMica": false
+            }
+        },
+        {
+            "name": "Huacat Pink Dark",
+            "tab": 
+            {
+                "background": "#6a3161FF",
+                "iconStyle": "default",
+                "showCloseButton": "always",
+                "unfocusedBackground": "#3d173dFF"
+            },
+            "tabRow": 
+            {
+                "background": "#3d173dFF",
+                "unfocusedBackground": "#471d47FF"
+            },
+            "window": 
+            {
+                "applicationTheme": "dark",
+                "experimental.rainbowFrame": false,
+                "frame": "#7a457aFF",
+                "unfocusedFrame": "#633863FF",
                 "useMica": false
             }
         }
